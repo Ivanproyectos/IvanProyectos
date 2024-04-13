@@ -10,13 +10,12 @@
    For me, each visual element is not just a part of the code, but an opportunity to convey emotions and facilitate memorable experiences for users.
    
 <!--<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=IvanProyectos&show_icons=true&locale=en&theme=tokyonight" alt="IvanProyectos" /></p> -->
-<br><br>
+<br>
 
-| ![Ivan Perez github stats](https://github-readme-stats.vercel.app/api?username=IvanProyectos\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8)
-| ![Ivan Perez GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanProyectos&theme=tokyonight&theme=icegray&border_radius=8)   |
-|  -----------------  |  ---------------  |
+ ![Ivan Perez github stats](https://github-readme-stats.vercel.app/api?username=IvanProyectos\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8)
+![Ivan Perez GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanProyectos&theme=tokyonight&theme=icegray&border_radius=8)   
 
-
+<br>
 <hr>
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
@@ -36,6 +35,7 @@
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
+
 ## 🎧 Spotify Playing
 
 [![Favoritos](https://img.shields.io/badge/favorites-ivan?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1gn9DPvQKnL3680wkVgoPg?si=868a23c9904a4682)
@@ -44,7 +44,9 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qoz4x5lwbksqm5syg6ssqznbca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31qoz4x5lwbksqm5syg6ssqznbca&redirect=true)
 
 <br>
+
 ###  thanks for watching it until the end, I love programming❤️
+
 <br>
 
 ![preview](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
