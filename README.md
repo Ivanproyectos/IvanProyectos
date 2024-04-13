@@ -1,7 +1,7 @@
 ### Hi, I'm Ivan Perez <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<br><br>
 
-
-👋 Hello! I am a full-stack developer from Peru, very fond of open source and good practices and clean code.
+👋 I am a full-stack developer from Peru, very fond of open source and good practices and clean code.
 
 💻 I have more than 6 years of experience developing web applications in private and public entities.
 
@@ -9,14 +9,12 @@
 
 ❤️ In addition to programming, I am passionate about designing interfaces, meticulously following the principles of design and usability. 
    For me, each visual element is not just a part of the code, but an opportunity to convey emotions and facilitate memorable experiences for users.
-
-<br><br>
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=IvanProyectos&show_icons=true&locale=en&theme=tokyonight" alt="IvanProyectos" /></p>
+   
+<!--<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=IvanProyectos&show_icons=true&locale=en&theme=tokyonight" alt="IvanProyectos" /></p> -->
 <br><br>
 
 | ![Ivan Perez github stats](https://github-readme-stats.vercel.app/api?username=IvanProyectos\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
 ![Ivan Perez  GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanProyectos&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
