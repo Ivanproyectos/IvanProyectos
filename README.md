@@ -32,8 +32,8 @@
 
 ## 🎧 Spotify Playing
 
-[![Favoritos](https://img.shields.io/badge/favorites-ivan?style=flat&logo=spotify&logoColor=white))]([https://open.spotify.com/playlist/0eufhXK7WPSiiwPcaz3Jq7?si=839465c918394657](https://open.spotify.com/playlist/1gn9DPvQKnL3680wkVgoPg?si=868a23c9904a4682))
-[![Programming Music](https://img.shields.io/badge/Programning_Music-5656?style=flat&logo=spotify&logoColor=white))]([https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ](https://open.spotify.com/playlist/1P4VapT1pa7aAfQ1hGRIFc?si=0fc158fc4ac9490b))
+[![Favoritos](https://img.shields.io/badge/favorites-ivan?style=flat&logo=spotify&logoColor=white))]([https://open.spotify.com/playlist/0eufhXK7WPSiiwPcaz3Jq7?si=839465c918394657](https://open.spotify.com/playlist/1gn9DPvQKnL3680wkVgoPg?si=868a23c9904a4682)
+[![Programming Music](https://img.shields.io/badge/Programning_Music-5656?style=flat&logo=spotify&logoColor=white))]([https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ](https://open.spotify.com/playlist/1P4VapT1pa7aAfQ1hGRIFc?si=0fc158fc4ac9490b)
 
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31qoz4x5lwbksqm5syg6ssqznbca&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31qoz4x5lwbksqm5syg6ssqznbca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
 
