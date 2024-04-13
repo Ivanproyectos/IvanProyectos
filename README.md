@@ -13,8 +13,11 @@
 <!--<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=IvanProyectos&show_icons=true&locale=en&theme=tokyonight" alt="IvanProyectos" /></p> -->
 <br><br>
 
-| ![Ivan Perez github stats](https://github-readme-stats.vercel.app/api?username=IvanProyectos\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) |
-![Ivan Perez  GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanProyectos&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![Ivan Perez github stats](https://github-readme-stats.vercel.app/api?username=IvanProyectos\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | 
+![Ivan Perez GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanProyectos&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
+
+<hr>
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
@@ -44,4 +47,8 @@
 
 
 ###  thanks for watching it until the end, I love programming❤️
+<br>
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
