@@ -12,7 +12,7 @@
 <!--<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=IvanProyectos&show_icons=true&locale=en&theme=tokyonight" alt="IvanProyectos" /></p> -->
 <br>
 
- ![Ivan Perez github stats](https://github-readme-stats.vercel.app/api?username=IvanProyectos\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8)
+ ![Ivan Perez github stats](https://github-readme-stats.vercel.app/api?username=IvanPerez-dev\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8)
 ![Ivan Perez GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanProyectos&theme=tokyonight&theme=icegray&border_radius=8)   
 
 <br>
